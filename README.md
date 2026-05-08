@@ -1,16 +1,18 @@
-## Hi there 👋
+<!--[My GitHub Stats](https://github-readme-stats.vercel.app/api?username=asura5700&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_title=true)-->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=asura5700&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-<!--
-**asura5700/asura5700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+目前职业
 
-Here are some ideas to get you started:
+> Bug Bounty Hunter / Pentester
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+学习方向
+
+> Web  安全
+
+
+个人签名
+
+> 莫听穿林打叶声 
+> 何妨吟啸且徐行
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" />
